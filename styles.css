@@ -5,3 +5,9 @@
 .mynav {
   background-color: #788a78;
 }
+
+.section1 {
+  background-image: url(images/imge01.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
