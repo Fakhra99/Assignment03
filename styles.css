@@ -6,8 +6,25 @@
   background-color: #788a78;
 }
 
+.mybtn {
+  border-radius: 0%;
+}
+
 .section1 {
   background-image: url(images/imge01.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.section4 {
+  background-color: #788a78;
+}
+
+.cheading {
+  color: #6ed198;
+}
+
+.logo {
+  max-width: 30vw;
+  max-height: 30vh;
 }
