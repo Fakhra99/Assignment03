@@ -10,6 +10,9 @@
   border-radius: 0%;
 }
 
+.color {
+  color: #6c757d;
+}
 .section1 {
   background-image: url(images/imge01.jpg);
   background-repeat: no-repeat;
@@ -33,5 +36,5 @@
 }
 
 .myBtn {
-  background-color: #6ed198;
+  background-color: #6ed198 !important;
 }
